@@ -1,5 +1,7 @@
 gcloud/
 
+configstore/
+
 ## NVIM
 # Compiled Lua sources
 luac.out
