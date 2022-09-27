@@ -10,3 +10,6 @@
 [submodule "/Users/qba/.config/zsh/oh-my-zsh/custom/plugins/zsh-completions"]
 	path = /Users/qba/.config/zsh/oh-my-zsh/custom/plugins/zsh-completions
 	url = https://github.com/clarketm/zsh-completions
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/QinBa/nvim.git
