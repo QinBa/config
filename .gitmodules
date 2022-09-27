@@ -13,3 +13,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/QinBa/nvim.git
+[submodule "zsh/oh-my-zsh/custom/themes/powerlevel10k"]
+	path = zsh/oh-my-zsh/custom/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
