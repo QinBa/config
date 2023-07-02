@@ -14,3 +14,11 @@ alias clsym="find -L . -name . -o -type d -prune -o -type l -exec rm {} +"
 
 # list PATH separated by new lines
 alias lpath='echo $PATH | tr ":" "\n"'
+
+alias k="kubectl"
+
+# luna/beam 
+export BEAM=$HOME/Apple/github.parsec.apple.com/luna/beam
+# source $beam/tools/env.sh
+
+export JAVA_HOME=$(/usr/libexec/java_home)
