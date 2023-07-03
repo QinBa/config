@@ -3,6 +3,15 @@ gcloud/
 configstore/
 
 ## NVIM
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
 # Compiled Lua sources
 luac.out
 
