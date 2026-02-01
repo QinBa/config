@@ -18,10 +18,6 @@ alias lpath='echo $PATH | tr ":" "\n"'
 alias k="kubectl"
 alias python="python3"
 
-# luna/beam 
-export BEAM=$HOME/Apple/github.parsec.apple.com/luna/beam
-# source $beam/tools/env.sh
-
 # libtorch config
 export LIBTORCH=/usr/local/libtorch/
 # LIBTORCH_INCLUDE must contains `include` directory.

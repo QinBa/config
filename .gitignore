@@ -2,6 +2,7 @@ gcloud/
 configstore/
 Webull*/
 github-copilot/
+*/*/private-alias.zsh
 
 ## NVIM
 tt.*
