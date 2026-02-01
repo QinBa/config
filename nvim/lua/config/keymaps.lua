@@ -6,3 +6,4 @@ vim.keymap.set({ "i", "v" }, "jk", "<ESC>", { silent = true })
 -- move cursor in insert mode
 vim.keymap.set("i", "<C-f>", "<Right>", {})
 vim.keymap.set("i", "<C-b>", "<Left>", {})
+vim.keymap.set("v", "p", "P", {})

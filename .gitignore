@@ -1,6 +1,7 @@
 gcloud/
-
 configstore/
+Webull*/
+github-copilot/
 
 ## NVIM
 tt.*
